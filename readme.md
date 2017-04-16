@@ -20,36 +20,36 @@ https://www.pjrc.com/teensy/loader.html
 ## 初期キーマップ
 
 ### レイヤー 0
-* sw1
-ctrl + a
-* sw2
-ctrl + c
-* sw3
-ctrl + x
-* sw4
-ctrl + v
-* sw5
-ctrl + alt + del
-* sw6
-レイヤー切り替え
+* sw1  
+=> ctrl + a
+* sw2  
+=> ctrl + c
+* sw3  
+=> ctrl + x
+* sw4  
+=> ctrl + v
+* sw5  
+=> ctrl + alt + del
+* sw6  
+=> レイヤー切り替え
 
 ### レイヤー 1
-* sw1
-前のトラック
-* sw2
-プレイ or ポーズ
-* sw3
-次のトラック
-* sw4
-音量--
-* sw5
-音量++
-* sw6
-レイヤー切り替え
+* sw1  
+=> 前のトラック
+* sw2  
+=> プレイ or ポーズ
+* sw3  
+=> 次のトラック
+* sw4  
+=> 音量--
+* sw5  
+=> 音量++
+* sw6  
+=> レイヤー切り替え
 
 ## レイヤーの状態について
-* 左のLED 点灯
-レイヤー0がアクティブ
+* 左のLED 点灯  
+=> レイヤー0がアクティブ
 
-* 右のLED 点灯
-レイヤー1がアクティブ
+* 右のLED 点灯  
+=> レイヤー1がアクティブ
